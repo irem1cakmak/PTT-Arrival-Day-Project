@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e7101bd-9d8e-4080-a6c9-3c2c52a1d82a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="com.intellij.jpb.FlywayMigrationScript" />
+      </list>
+    </option>
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="file://$USER_HOME$/AppData/Local/Temp/whats-new-dir/whats-new.http" environment="test" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nps1iBIUCKxmbk0QVVnmKbrHvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PttApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.PttApplication.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/iremc/Desktop/ptt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PttApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ptt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.PttApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e7101bd-9d8e-4080-a6c9-3c2c52a1d82a" name="Changes" comment="" />
+      <created>1729681139169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729681139169</updated>
+      <workItem from="1729681140223" duration="2569000" />
+      <workItem from="1729749171189" duration="6292000" />
+      <workItem from="1729755533611" duration="2686000" />
+      <workItem from="1729758962804" duration="24000" />
+      <workItem from="1729835397785" duration="16030000" />
+      <workItem from="1730095081327" duration="1468000" />
+      <workItem from="1730096616271" duration="9175000" />
+      <workItem from="1730267253421" duration="1294000" />
+      <workItem from="1730268640222" duration="19000" />
+      <workItem from="1730268668297" duration="8000" />
+      <workItem from="1730269280025" duration="4000" />
+      <workItem from="1730271859917" duration="9255000" />
+      <workItem from="1730295756938" duration="523000" />
+      <workItem from="1730354274650" duration="40000" />
+      <workItem from="1730354584219" duration="1061000" />
+      <workItem from="1730356841562" duration="138000" />
+      <workItem from="1730356988767" duration="9000" />
+      <workItem from="1730360919158" duration="1672000" />
+      <workItem from="1730365779414" duration="2000" />
+      <workItem from="1730440057474" duration="20236000" />
+      <workItem from="1730541742624" duration="6000" />
+      <workItem from="1730571124745" duration="33000" />
+      <workItem from="1730571272741" duration="1224000" />
+      <workItem from="1732645992465" duration="8000" />
+      <workItem from="1732818880152" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
